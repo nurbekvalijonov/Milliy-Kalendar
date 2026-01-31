@@ -1,0 +1,7 @@
+{
+  "name": "Milliy Kalendar - Digital Time Infrastructure",
+  "description": "A 3D, ultra-modern, interactive prototype for Uzbekistan's unified digital time infrastructure. B2G/E-Gov oriented with multilingual support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
